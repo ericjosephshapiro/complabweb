@@ -1,0 +1,23 @@
+---
+title: "tom mcandrew (pi)"
+date: 2003-03-10
+lastmod: 2024-09-08
+aliases: 
+    - /courses/course2/slides4.pdf
+tags: ["math","stats","human judgment","forecasting"]
+author: "Moritz-Maria von Igelfeld"
+description: "Background on mcandrew" 
+summary: "This graduate course presents classical results in Romance philology. it focuses especially on Portugese and Spanish irregular verbs." 
+cover:
+    image: "mcandrew.png"
+    alt: ""
+    relative: false
+editPost:
+    URL: "https://github.com/pmichaillat/hugo-website"
+    Text: "Course portal"
+showToc: true
+disableAnchoredHeadings: false
+
+---
+
+McAndrew has led projects associated with the mathematical modeling of respiratory illnesses that focus on augmenting surveillance data with human judgment predictions. He has received support from NSF, CSTE, CDC, and MIDAS. McAndrew has published innovative works that combine surveillance data with human judgment predictions to produce forecasts of the trajectory of infectious agents, and has a history of developing novel epidemic models. He also focuses on building innovative ensemble algorithms to combine forecasts of seasonal influenza. McAndrew works closely with public health officials and practitioners to improve public health decision making via mathematical models of disease.

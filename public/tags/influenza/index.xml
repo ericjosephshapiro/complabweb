@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Influenza on Computational Uncertainty Lab</title>
+    <link>http://localhost:50252/computationalUncertaintyLab/complabweb/tags/influenza/</link>
+    <description>Recent content in Influenza on Computational Uncertainty Lab</description>
+    <generator>Hugo -- 0.138.0</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 14 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:50252/computationalUncertaintyLab/complabweb/tags/influenza/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Adaptively stacking ensembles for influenza forecasting with incomplete data</title>
+      <link>http://localhost:50252/computationalUncertaintyLab/complabweb/papers/mcandrew-2020-adaptive/</link>
+      <pubDate>Thu, 14 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50252/computationalUncertaintyLab/complabweb/papers/mcandrew-2020-adaptive/</guid>
+      <description>Needing no data at the beginning of an epidemic, an adaptive ensemble can quickly train and forecast an outbreak, providing a practical tool to public health officials looking for a forecast to conform to unique features of a specific season.</description>
+    </item>
+  </channel>
+</rss>

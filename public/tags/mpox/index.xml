@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Mpox on Computational Uncertainty Lab</title>
+    <link>http://localhost:50252/computationalUncertaintyLab/complabweb/tags/mpox/</link>
+    <description>Recent content in Mpox on Computational Uncertainty Lab</description>
+    <generator>Hugo -- 0.138.0</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 01 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:50252/computationalUncertaintyLab/complabweb/tags/mpox/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Early human judgment forecasts of human monkeypox, May 2022</title>
+      <link>http://localhost:50252/computationalUncertaintyLab/complabweb/papers/mcandrew-2022-mpoxhj/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50252/computationalUncertaintyLab/complabweb/papers/mcandrew-2022-mpoxhj/</guid>
+      <description>These results suggest that a human judgment forecasting platform can quickly generate probabilistic predictions for targets of public health importance</description>
+    </item>
+  </channel>
+</rss>

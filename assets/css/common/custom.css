@@ -1,0 +1,10 @@
+.post-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* 3 columns */
+    gap: 1.5rem; /* Adjust spacing between cards as needed */
+}
+
+.post-container .card {
+    margin: 0;
+    padding: 1rem;
+}
