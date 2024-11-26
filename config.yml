@@ -98,7 +98,7 @@ params:
         hiddenInSingle: true
     label:
       text: "mcandrew@lehigh.edu (home)"
-      icon: compuncertlab.ico
+      icon: favicon.ico
       iconHeight: 18
 
 markup:
