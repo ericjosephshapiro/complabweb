@@ -5,7 +5,7 @@ lastmod: 2024-09-08
 aliases: 
     - /courses/course2/slides4.pdf
 tags: ["math","stats","human judgment","forecasting"]
-author: "Moritz-Maria von Igelfeld"
+author: "tom mcandrew"
 description: "Background on mcandrew" 
 summary: "This graduate course presents classical results in Romance philology. it focuses especially on Portugese and Spanish irregular verbs." 
 cover:
@@ -13,8 +13,8 @@ cover:
     alt: ""
     relative: false
 editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "Course portal"
+    URL: "https://github.com/tomcm39/mcandrewCV/blob/master/mcandrew_cv.pdf"
+    Text: "CV"
 showToc: true
 disableAnchoredHeadings: false
 
