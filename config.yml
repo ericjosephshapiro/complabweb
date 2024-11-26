@@ -75,7 +75,7 @@ params:
 
     socialIcons:
         - name: CV
-          url: cv.pdf
+          url: https://github.com/tomcm39/mcandrewCV/blob/master/mcandrew_cv.pdf
         - name: Email
           url: mailto:mcandrew@lehigh.edu
         - name: Zoom
