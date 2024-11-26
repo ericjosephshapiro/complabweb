@@ -7,7 +7,7 @@ aliases:
 tags: ["math","stats","human judgment","forecasting"]
 author: "tom mcandrew"
 description: "Background on mcandrew" 
-summary: "This graduate course presents classical results in Romance philology. it focuses especially on Portugese and Spanish irregular verbs." 
+summary: "Principal Investigator; applied math, stats, human judgment, forecasting, infectious diseases" 
 cover:
     image: "mcandrew.png"
     alt: ""
