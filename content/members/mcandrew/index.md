@@ -13,7 +13,7 @@ cover:
     alt: ""
     relative: false
 editPost:
-    URL: "https://github.com/tomcm39/mcandrewCV/blob/master/mcandrew_cv.pdf"
+    URL: ../../mcandrew_cv.pdf
     Text: "CV"
 showToc: true
 disableAnchoredHeadings: false
