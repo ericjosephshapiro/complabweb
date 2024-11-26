@@ -27,7 +27,7 @@ menu:
           weight: 1
 
 params:
-    description: "I am a Professor of Philology at the Institute of Romance Philology in Regensburg, Germany. My research focuses mostly on Portuguese irregular verbs."
+    description: "Computational scientist,infectious diseases,forecasting"
     author: tom mcandrew
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
@@ -52,11 +52,11 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Computational Uncertainty Lab
+          title: ""
           subtitle: "The computational uncertainty lab led by Prof. Thomas McAndrew aims to forecast the trajectory of infectious diseases by combining forecasts from computational models and human judgement. The lab is funded by the NIH, the Centers for Disease Control and Prevention, and the Council for State and Territorial Epidemiologists. The lab includes postdoctoral fellows, PhD candidates, Masters students, and undergraduates who study the intersection of human judgement, statistical forecasting and time series, and outbreak science."
-          imageUrl: "picture.jpeg"
-          imageWidth: 160
-          imageHeight: 160
+          imageUrl: "compuncertlab.png"
+          imageWidth: 300
+          imageHeight: 300
           buttons:
             - name: Papers
               url: papers/
@@ -89,7 +89,7 @@ params:
         - name: GitHub
           url: https://github.com/computationalUncertaintyLab
         - name: YouTube
-          url: https://www.youtube.com/@tomcm100 https://www.youtube.com/@alexandermccallsmithoffici9000
+          url: https://www.youtube.com/@tomcm100
 
     assets:
         disableScrollBarStyle: true
