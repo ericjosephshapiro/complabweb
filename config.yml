@@ -10,7 +10,7 @@ taxonomies:
 
 menu:
     main:
-        - name: Bks
+        - name: Books
           url: books/
           weight: 5 
         - name: Papers
@@ -97,8 +97,8 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "mcandrew@lehigh.edu"
-      icon: favicon.ico
+      text: "mcandrew@lehigh.edu (home)"
+      icon: compuncertlab.ico
       iconHeight: 18
 
 markup:
