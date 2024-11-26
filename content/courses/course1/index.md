@@ -1,120 +1,158 @@
 ---
-title: "Lectures at the Villa of Reduced Circumstances"
-date: 2003-03-10
-lastmod: 2024-09-08
-aliases: 
-    - /courses/course2/slides4.pdf
-    - /courses/course2/slides1.pdf
-    - /courses/course2/slides3.pdf
-    - /courses/course2/slides2.pdf
-    - /courses/course2/notes3.pdf
-    - /courses/course2/notes4.pdf
-    - /courses/course2/ps3.pdf
-    - /courses/course2/ps4.pdf
-    - /courses/course1/quiz1.pdf
-    - /courses/course1/quiz2.pdf
-    - /courses/course2/quiz3.pdf
-    - /courses/course2/quiz4.pdf
-    - /courses/course1/ps1.pdf
-tags: ["Romance languages","philology","irregular verbs","Spanish","Portuguese"]
-author: "Moritz-Maria von Igelfeld"
-description: "This graduate course presents classical results in Romance philology." 
-summary: "This graduate course presents classical results in Romance philology. it focuses especially on Portugese and Spanish irregular verbs." 
+title: "Outbreak science"
+date: 2024-11-25
+lastmod: 2024-11-25
+
+tags: ["epidemic modeling","mechanisitc models","Reed-Frost","SIR"]
+author: "tom mcandrew"
+description: "This course aims to introduce students to models that describe the spread of a pathogen through a population, and how models can support public health decisions. Students will be expected to complete mathematical/statistical exercises and write code that simulates infectious processes." 
+summary: "This course aims to introduce students to models that describe the spread of a pathogen through a population, and how models can support public health decisions. Students will be expected to complete mathematical/statistical exercises and write code that simulates infectious processes." 
 cover:
     image: "course1.png"
-    alt: "Villa of Reduced Circumstances"
+    alt: "outbreak_science"
     relative: false
 editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "Course portal"
+    URL: "https://computationaluncertaintylab.github.io/outbreak_book/intro.html"
+    Text: "Notes/text"
 showToc: true
 disableAnchoredHeadings: false
 
 ---
 
-## Introduction
+## Abstract
+This course aims to introduce students to models that describe the spread of a pathogen through a population, and how models can support public health decisions. Students will be expected to complete mathematical/statistical exercises and write code that simulates infectious processes.
 
-This course covers research topics related to Romance philology. It focuses especially on Portugese and Spanish irregular verbs. It tries to answer several questions: 
-
-+ Why are there irregular verbs? 
-+ How are Portuguese irregular verbs different from Spanish irregular verbs? 
-+ What is the role of Latin and Greek in these irregularities? 
-+ What about irregular verbs in other Romance languages?
-    + Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. 
-    + Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-    + Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-    + Excepteur sint occaecat cupidatat non proident.
-    
-Sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-## Part 1: Review of Romance languages
-
-This section reviews Romance languages. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-##### Lecture videos
-
-+ [Lecture video 1](https://youtu.be/3MZeJED2yns) – This is a first lecture video.
-+ [Lecture video 2](https://youtu.be/8ihJsf-AXdA) – This is a another lecture video.
-+ [Lecture video 3](https://youtu.be/79MSNfp1rw0) – This is a third lecture video. It is quite short.
-
-##### Lecture notes
-
-+ [Lecture note 1](lecture1.pdf)
-
-##### Readings
-
-+ [Paper 1](https://pascalmichaillat.org/1.pdf) – This is a first paper to read.
-+ [Paper 2](https://pascalmichaillat.org/2.pdf) – This paper builds on the first one.
-+ [Paper 3](https://pascalmichaillat.org/4.pdf) – This paper is more complex.
-
-## Part 2: Portugese irregular verbs
-
-This section introduces Portugese irregular verbs. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-##### Lecture videos
-
-+ [Lecture video 4](https://youtu.be/IZI0_WwIyb8)
-+ [Lecture video 5](https://youtu.be/Qz7CCB1-gu8)
-+ [Lecture video 6](https://youtu.be/79MSNfp1rw0)
-
-##### Lecture notes
-
-+ [Lecture note 2](lecture2.pdf)
-
-##### Readings
-
-+ [Paper 4](https://pascalmichaillat.org/5.pdf) – This paper computes things. (Details about the simulations are presented in the paper's [online appendix](https://pascalmichaillat.org/5a.pdf).)
-+ [Paper 5](https://pascalmichaillat.org/3.pdf) – This paper proves things. (The paper's [online appendix](https://pascalmichaillat.org/3a.pdf) contains long proofs and extensions of the results.)
+## Course materials
+The notes/text are free for use and available at [Book](https://computationaluncertaintylab.github.io/outbreak_book/intro.html). 
+Students should note that the "book" may be updated periodically throughout the semester. 
 
 
-## Part 3: Spanish irregular verbs
 
-This section quickly discusses irregular verbs in Spanish. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
+# BSTA 395/495: Outbreak Science and Public Health Forecasting
 
-##### Lecture videos
+## Coordinates and Contact
 
-+ [Lecture video 7](https://youtu.be/pIS8-mXG1oY)
-+ [Lecture video 8](https://youtu.be/FUaeNM8_fxs)
-+ [Optional lecture video](https://youtu.be/xjHVrx7jfdY)
+- **Instructor:** Tom McAndrew  
+- **Email:** [mcandrew@lehigh.edu](mailto:mcandrew@lehigh.edu)  
+- **Office coordinates:** HST 175  
+- **Office hours:** To be voted on by students | By appointment  
 
-##### Basic readings
+---
 
-+ [Paper 6](https://pascalmichaillat.org/10.pdf)
+## Abstract
 
-##### Advanced readings
+This course aims to introduce students to models that describe the spread of a pathogen through a population and how models can support public health decisions.  
+Students will complete mathematical/statistical exercises and write code that simulates infectious processes.
 
-+ [Paper 7](https://pascalmichaillat.org/11.pdf)
-+ [Paper 8](https://pascalmichaillat.org/12.pdf)
+---
 
-## Conclusion
+## Class Logistics and Resources
 
-This section concludes by comparing Portuguese and Spanish irregular verbs to irregular verbs in other Romance languages. 
+### Class Time and Location  
+- Tuesdays, Thursdays 3:00 PM - 4:15 PM in STEPS Room 121  
 
-> Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Aenean magna nisl, mollis quis, molestie eu, feugiat in, orci. In hac habitasse platea dictumst. Quisque non felis. Nullam vulputate libero quis ligula. Fusce scelerisque suscipit sapien. Suspendisse commodo ullamcorper magna. 
-> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
+### Remote Students  
+- [Zoom link](https://lehigh.zoom.us/j/3024413724?pwd=Q2ZyRmYvM2wwTVNneTA4QzBPU0RnUT09)
 
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+### Tentative Timeline  
 
+| Topic                                                                 | Timeline      |
+|----------------------------------------------------------------------|---------------|
+| **Reed-Frost Model**                                                 |               |
+| Dynamics assumed at start of outbreak                                | Week 1        |
+| Reproduction number and Growth Rate                                  | Week 2        |
+| **Compartmental models**                                             |               |
+| The SIR and Freq vs Density transmission                             | Week 3        |
+| Condition for an outbreak and Herd Immunity Threshold                | Week 4        |
+| Lasting infections and Steady-state analysis                         | Week 5        |
+| Latent and Endemic Diseases                                          | Week 6        |
+| Public health surveillance and policy                                | Week 7        |
+| **Midterm**                                                          | Week 8        |
+| **Computational modeling**                                           |               |
+| Simulating stochastic epidemic models (Reed-Frost)                   | Week 9        |
+| Simulating compartmental models (including the use of LLMs)          | Week 10       |
+| Fitting compartmental models via loglikelihood                       | Week 11       |
+| Fitting a compartmental model to real influenza data                 | Week 12       |
+| Disease propagation with heterogeneous risk of hosts (WMM)           | Weeks 13–14   |
+
+---
+
+## Additional Graduate Student Requirements
+
+Graduate students must pose and answer their own question for each homework assignment.  
+These questions may be used in future iterations of the course.  
+Graduate students are not eligible for extra credit.
+
+---
+
+## Textbook  
+
+The course will follow notes available at: [Outbreak Book](https://computationaluncertaintylab.github.io/outbreak_book/intro.html).  
+Additional resources include:  
+1. *An Introduction to Infectious Disease Modeling* by Emilia Vynnycky and Richard White  
+2. *Modeling Infectious Diseases in Humans and Animals* by Keeling and Rohani  
+
+Students should understand introductory probability, statistics, and the algebra of random variables. A free reference is available [here](https://github.com/tomcm39/2022S-BSTA001-Textbook/blob/main/phds.pdf).
+
+---
+
+## Policies  
+
+### Attendance  
+Attendance is crucial. If sick, let the instructor know and stay home. Excused absences allow for makeup evaluations.
+
+### Collaboration  
+Work together, but submit your own answers. Collaboration on quizzes, midterms, and finals is not allowed.
+
+### Frustration  
+If frustrated, take a break, return later, and ask for help if needed.
+
+---
+
+## Technology  
+
+### Computing  
+We will use [Python 3](https://www.python.org/) for simulations and statistical training. 
+VSCode is recommended as an IDE.
+Students will use DataCamp for Python programming training.
+
+---
+
+## Assignments  
+
+### Grading Breakdown  
+
+| Item         | Weight  |
+|--------------|---------|
+| Quizzes      | 25%     |
+| Homework     | 50%     |
+| Midterm      | 12.5%   |
+| Final        | 12.5%   |
+
+### Homework  
+Homework is due in person, one week after assignment. Late homework grades are reduced as follows:  
+$
+f(\text{grade}, \text{days late}) = \text{grade} \times e^{-0.35 \cdot \text{days late}}
+$  
+No submissions via course site. Late assignments beyond a week receive zero.  
+
+### Exams  
+Midterms and finals are in-person oral exams. Quizzes are due by midnight on class days and test class engagement.  
+
+### Datacamp  
+Datacamp assignments will accompany homeworks.  
+
+### Extra Credit  
+Extra credit involves attending seminars and writing reflections, contributing as an additional quiz score.
+
+---
+
+## Accommodations for Students with Disabilities  
+Lehigh University provides accommodations through Disability Support Services. More details are available [here](https://studentaffairs.lehigh.edu/disabilities).
+
+---
+
+## Principles of Our Equitable Community  
+Lehigh University endorses [The Principles of Our Equitable Community](http://www.lehigh.edu/~inprv/initiatives/PrinciplesEquity_Sheet_v2_032212.pdf).  
+
+---
