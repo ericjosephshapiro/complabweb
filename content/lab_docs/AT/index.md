@@ -24,6 +24,11 @@ See a typical template (that can be modified) for AT responsabilities above call
 
 In the lab, a typical AT-ship is valued at 1 credit. In cases where the AT decides to take on substantial course duties then the number of credit hours can be increased.
 
+To register for an AT postion, you will need to fill out the following form with the College of Health
+[Apprentice Teaching Form](https://na3.docusign.net/Member/PowerFormSigning.aspx?PowerFormId=74a857a9-14f7-49c5-8efc-db171032b229&env=na3&acct=4522e8bc-42ec-46ec-af83-a167d8a26e3f&v=2).
+**Note**: For this form please use my official Lehigh email address, thm220@lehigh.edu.
+
+
 # Rules and Procedures as of 2024-10
 
 ## 3.14.5.1 Apprentice Teaching
