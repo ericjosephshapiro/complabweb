@@ -25,6 +25,9 @@ menu:
         - name: Lab members
           url: members/
           weight: 1
+        - name: Lab Docs
+          url: lab_docs/
+          weight: 6
 
 params:
     description: "Computational scientist,infectious diseases,forecasting"
@@ -72,6 +75,10 @@ params:
               url: archive/
             - name: Lab members
               url: members/
+            - name: Lab Docs
+              url: lab_docs/
+
+
 
     socialIcons:
         - name: CV
