@@ -35,23 +35,98 @@ This course provides an introduction to the fundamentals of programming in Pytho
 
 ### Tentative Timeline  
 
-| Topic                                                                                            | Timeline       | Materials                                  | Data Camp Lesson |
-|--------------------------------------------------------------------------------------------------|----------------|--------------------------------------------|------------------|
-| **Probability and Univariate Statistics**                                                                                                                                         | 
-| Set Theory and properties of probability; Conditional Probability, and Discrete Random variables |  Week 1        | Hogg, McKean, Craig 1-1.3.2; 1.4, 1.5, 1.6 |
-| Continuous random variables (including Uniform), Expectation                                     |  Week 2        | Hogg, McKean, Craig 1.7-1.10               | 
-| Inequalities, Law of Large Numbers, and Bernoulli, Binomial, Poisson                             |  Week 3        | Hogg, McKean, Craig 3.1                    |
-| Exponential, Gamma, Normal Densities                                                             |  Week 4        | Hogg, McKean, Craig 3.3.1, 3.4             |  
-| Multivariate Normal Density                                                                      |  Week 5        | Hogg, McKean, Craig 2.1-2.3                |
-| Simulation of Statistical Processes (Inverse CDF, Monte Carlo, and Accept/Reject)                |  Weeks 6 and 7 | Hogg, McKean, Craig 4.8                    | 
-| Midterm                                                                                          |  Week 8        |  
-| **Data, visualizations, application building**                                                   |
-| Data Viz (Matplotlib, seaborn)                                                                   |  Week 9
-| Data munging                                                                                     |  Week 10       | Chapter 2 in *Python Data Science Essentials by Alberto Boschetti, Luca Massaron* |
-| Indexing, selection, merging, and joining                                                        |  Week 11       | Chapter 3 in *Python Data Science Handbook by Jake VanderPlas* |
-| Split-Apply-Combine                                                                              |  Week 12       | Chapter 8, Groupby Operations: Split-Apply-Combine in *Pandas for Everyone: Python Data Analysis, 2nd Edition Daniel Y. Chen* |
-| The Data Science LifeCycle                                                                       |  Week 13       | Chapter 1 in *Learning Data Science by Sam Lau, Joseph Gonzalez, Deborah Nolan* |
-| Web-application and data viz                                                                     |  Week 14       | [Data: FluView For Subtypes](https://gis.cdc.gov/grasp/fluview/Novel_Influenza.html) |
+<table border="1" cellspacing="0" cellpadding="5">
+  <tr>
+    <th>Topic</th>
+    <th>Timeline</th>
+    <th>Materials</th>
+    <th>Data Camp Lesson</th>
+  </tr>
+  <tr>
+    <th colspan="4" style="text-align: center;"><strong>Probability and Simulation</strong></th>
+  </tr>
+  <tr>
+    <td>Set Theory and properties of probability; Conditional Probability, and Discrete Random variables</td>
+    <td>Week 1</td>
+    <td>Hogg, McKean, Craig 1-1.3.2; 1.4, 1.5, 1.6</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Continuous random variables (including Uniform), Expectation</td>
+    <td>Week 2</td>
+    <td>Hogg, McKean, Craig 1.7-1.10</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Inequalities, Law of Large Numbers, and Bernoulli, Binomial, Poisson</td>
+    <td>Week 3</td>
+    <td>Hogg, McKean, Craig 3.1</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Exponential, Gamma, Normal Densities</td>
+    <td>Week 4</td>
+    <td>Hogg, McKean, Craig 3.3.1, 3.4</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Multivariate Normal Density</td>
+    <td>Week 5</td>
+    <td>Hogg, McKean, Craig 2.1-2.3</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Simulation of Statistical Processes (Inverse CDF, Monte Carlo, and Accept/Reject)</td>
+    <td>Weeks 6 and 7</td>
+    <td>Hogg, McKean, Craig 4.8</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Midterm</td>
+    <td>Week 8</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <th colspan="4" style="text-align: center;"><strong>Data, visualizations, application building</strong></th>
+  </tr>
+  <tr>
+    <td>Data Viz (Matplotlib, seaborn)</td>
+    <td>Week 9</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Data munging</td>
+    <td>Week 10</td>
+    <td>Chapter 2 in <em>Python Data Science Essentials</em> by Alberto Boschetti, Luca Massaron</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Indexing, selection, merging, and joining</td>
+    <td>Week 11</td>
+    <td>Chapter 3 in <em>Python Data Science Handbook</em> by Jake VanderPlas</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Split-Apply-Combine</td>
+    <td>Week 12</td>
+    <td>Chapter 8, Groupby Operations: Split-Apply-Combine in <em>Pandas for Everyone: Python Data Analysis, 2nd Edition</em> by Daniel Y. Chen</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>The Data Science LifeCycle</td>
+    <td>Week 13</td>
+    <td>Chapter 1 in <em>Learning Data Science</em> by Sam Lau, Joseph Gonzalez, Deborah Nolan</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Web-application and data viz</td>
+    <td>Week 14</td>
+    <td><a href="https://gis.cdc.gov/grasp/fluview/Novel_Influenza.html">Data: FluView For Subtypes</a></td>
+    <td></td>
+  </tr>
+</table>
 
 ---
 ## Textbook  
