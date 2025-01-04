@@ -10,6 +10,9 @@ cover:
     image: "dataexploration.png"
     alt: "dataexploration"
     relative: false
+editPost:
+    URL: "https://computationaluncertaintylab.github.io/dexp_book/intro.html"
+    Text: "Notes/text"
 showToc: true
 disableAnchoredHeadings: false
 ---
@@ -41,15 +44,39 @@ This course provides an introduction to the fundamentals of programming in Pytho
     <th>Timeline</th>
     <th>Materials</th>
     <th>Data Camp Lesson</th>
+    <th>Homework</th>
   </tr>
+
   <tr>
-    <th colspan="4" style="text-align: center;"><strong>Probability and Simulation</strong></th>
+    <th colspan="5" style="text-align: center;"><strong>Exploratory Data Analysis</strong></th>
   </tr>
+
   <tr>
+    <td>Data munging</td>
+    <td>Week 2</td>
+    <td>Chapter 2 in <em>Python Data Science Essentials</em> by Alberto Boschetti, Luca Massaron</td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td>Data Visualization (Matplotlib, seaborn)</td>
+    <td>Week 1</td>
+    <td></td>
+    <td></td>
+  </tr>
+
+
+  <tr>
+    <th colspan="5" style="text-align: center;"><strong>Probability and Simulation</strong></th>
+  </tr>
+
+
+<tr>
     <td>Set Theory and properties of probability; Conditional Probability, and Discrete Random variables</td>
     <td>Week 1</td>
     <td>Hogg, McKean, Craig 1-1.3.2; 1.4, 1.5, 1.6</td>
-    <td></td>
+    <td>XX</td>
+    <td> [XX](llama) </td>
   </tr>
   <tr>
     <td>Continuous random variables (including Uniform), Expectation</td>
@@ -90,18 +117,7 @@ This course provides an introduction to the fundamentals of programming in Pytho
   <tr>
     <th colspan="4" style="text-align: center;"><strong>Data, visualizations, application building</strong></th>
   </tr>
-  <tr>
-    <td>Data Viz (Matplotlib, seaborn)</td>
-    <td>Week 9</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Data munging</td>
-    <td>Week 10</td>
-    <td>Chapter 2 in <em>Python Data Science Essentials</em> by Alberto Boschetti, Luca Massaron</td>
-    <td></td>
-  </tr>
+
   <tr>
     <td>Indexing, selection, merging, and joining</td>
     <td>Week 11</td>
