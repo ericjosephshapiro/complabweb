@@ -1,7 +1,7 @@
 ---
 title: "Outbreak science 2"
-date: 2024-11-25
-lastmod: 2024-11-25
+date: 2025-01-15
+lastmod: 2025-01-15
 
 tags: ["epidemic modeling","mechanistic models","Dynamics","SIR"]
 author: "tom mcandrew"
