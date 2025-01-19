@@ -56,26 +56,29 @@ This course provides an introduction to the fundamentals of programming in Pytho
     <td>Week 1</td>
     <td>Refer to Notes</td>
     <td></td>
-    <td> <a href="https://computationaluncertaintylab.github.io/dexp_book/Homework01.html"> HW01</a>  </td>
+    <td> <a href="https://computationaluncertaintylab.github.io/dexp_book/Homework01.html"> Homework 01</a>  </td>
   </tr>
 
   <tr>
     <td>Data, Data Frames, and Pandas</td>
     <td>Week 2</td>
+    <td>Refer to Notes</td>
     <td></td>
-    <td><a href="https://computationaluncertaintylab.github.io/dexp_book/Homework02.html">HW02</a></td>
+    <td><a href="https://computationaluncertaintylab.github.io/dexp_book/Homework02.html">Homework 02</a></td>
   </tr>
 
   <tr>
     <td>Data visualization</td>
     <td>Week 3</td>
+    <td>Refer to Notes</td>
     <td></td>
-    <td><a href="https://computationaluncertaintylab.github.io/dexp_book/Homework03.html">Homework03</a></td>
+    <td><a href="https://computationaluncertaintylab.github.io/dexp_book/Homework03.html">Homework 03</a></td>
   </tr>
 
   <tr>
     <td>Split-apply-combine</td>
     <td>Week 4</td>
+    <td>Refer to Notes</td>
     <td></td>
     <td><a href="https://computationaluncertaintylab.github.io/dexp_book/Homework04.html">Homework 04</a></td>
   </tr>
@@ -88,26 +91,27 @@ This course provides an introduction to the fundamentals of programming in Pytho
 <tr>
     <td>Set Theory and properties of probability; Conditional Probability, and Discrete Random variables</td>
     <td>Week 5 and 6</td>
-    <td>Hogg, McKean, Craig 1-1.3.2; 1.4, 1.5, 1.6  </td>
+    <td>Refer to Notes</td>
     <td>XX</td>
     <td> <a href="https://computationaluncertaintylab.github.io/dexp_book/Homework05.html">Homework 05</a> </td>
   </tr>
   <tr>
     <td>Random variables</td>
     <td>Week 7 and 8</td>
+    <td>Refer to Notes</td>
     <td>Hogg, McKean, Craig 1.7-1.10</td>
     <td></td>
   </tr>
   <tr>
     <td>Bernoulli, Binomial, Poisson, Exponential, Gamma, Normal Densities</td>
     <td>Week 9</td>
-    <td>Hogg, McKean, Craig 3.1-3.4 </td>
+    <td>Refer to Notes</td>
     <td></td>
   </tr>
   <tr>
     <td>Multivariate Normal Density</td>
     <td>Week 10</td>
-    <td></td>
+    <td>Refer to Notes</td>
     <td></td>
   </tr>
 
@@ -122,14 +126,14 @@ This course provides an introduction to the fundamentals of programming in Pytho
   <tr>
     <td>Simulation of Statistical Processes (Inverse CDF, Monte Carlo, and Accept/Reject)</td>
     <td>Week 12</td>
-    <td>Hogg, McKean, Craig 4.8</td>
+    <td>Refer to Notes</td>
     <td></td>
   </tr>
 
   <tr>
     <td> The Forward problem for several processes </td>
     <td>Week 13</td>
-    <td>Hogg, McKean, Craig 4.8</td>
+    <td>Refer to Notes</td>
     <td></td>
   </tr>
  
@@ -139,6 +143,7 @@ This course provides an introduction to the fundamentals of programming in Pytho
  <tr>
     <td>Web-application and data viz</td>
     <td>Week 14</td>
+    <td>Refer to Notes</td>
     <td><a href="https://gis.cdc.gov/grasp/fluview/Novel_Influenza.html">Data: FluView For Subtypes</a></td>
     <td></td>
   </tr>
