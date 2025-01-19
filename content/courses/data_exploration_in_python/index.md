@@ -155,7 +155,7 @@ The course does not require a textbook.
 However, there are many texts that can be suggested such as
 - [Introduction to Mathematical Statistics](https://minerva.it.manchester.ac.uk/~saralees/statbook2.pdf) by Hogg, McKean, Craig, 8th Edition.
 - [Introduction to Probabiltiy Models](https://faculty.ksu.edu.sa/sites/default/files/introduction-to-probability-model-s.ross-math-cs.blog_.ir_.pdf) by Sheldon Ross 10th Edition.
-- [an-introduction-to-probability-theory-and-its-applications](https://bitcoinwords.github.io/assets/papers/an-introduction-to-probability-theory-and-its-applications.pdf) by William Feller 
+- [an-introduction-to-probability-theory-and-its-applications](https://bitcoinwords.github.io/assets/papers/an-introduction-to-probability-theory-and-its-applications.pdf) by William Feller   
 The course may use different books that are all available to Lehigh University students *free of charge*.
 The materials can be accessed for free via Lehigh Unviersity Library.
 The textbooks/materials are above in the Tentative timeline.
