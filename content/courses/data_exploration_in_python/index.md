@@ -1,7 +1,7 @@
 ---
 title: "Data Exploration in Python"
-date: 2024-12-26
-lastmod: 2024-12-26
+date: 2025-01-14
+lastmod: 2025-01-14
 tags: ["Univariate statistics","Probability","Algorithms","Python"]
 author: "tom mcandrew"
 description: "This course provides an introduction to the fundamentals of programming in Python. Students will gain experience designing, implementing, and testing their Python code, as well as in using Jupyter Notebooks, and IPython for statistics and data analysis. Multiple programming paradigms will be explored. The course covers Python data types, input, and output, and control flow in the context of preparing, cleaning, transforming, and manipulating data. In addition, students will use Python to conduct exploratory data analyses, including computing descriptive statistics"
@@ -42,7 +42,7 @@ This course provides an introduction to the fundamentals of programming in Pytho
   <tr>
     <th>Topic</th>
     <th>Timeline</th>
-    <th>Materials</th>
+    <th>Optional/Extra Materials</th>
     <th>Data Camp Lesson</th>
     <th>Homework</th>
   </tr>
@@ -52,19 +52,33 @@ This course provides an introduction to the fundamentals of programming in Pytho
   </tr>
 
   <tr>
-    <td>Data munging</td>
-    <td>Week 2</td>
-    <td>Chapter 2 in <em>Python Data Science Essentials</em> by Alberto Boschetti, Luca Massaron</td>
+    <td>Exploratory data Analysis Part I</td>
+    <td>Week 1</td>
+    <td>Refer to Notes</td>
     <td></td>
+    <td> <a href="https://computationaluncertaintylab.github.io/dexp_book/Homework01.html"> HW01</a>  </td>
   </tr>
 
   <tr>
-    <td>Data Visualization (Matplotlib, seaborn)</td>
-    <td>Week 1</td>
+    <td>Data, Data Frames, and Pandas</td>
+    <td>Week 2</td>
     <td></td>
-    <td></td>
+    <td><a href="https://computationaluncertaintylab.github.io/dexp_book/Homework02.html">HW02</a></td>
   </tr>
 
+  <tr>
+    <td>Data visualization</td>
+    <td>Week 3</td>
+    <td></td>
+    <td><a href="https://computationaluncertaintylab.github.io/dexp_book/Homework03.html">Homework03</a></td>
+  </tr>
+
+  <tr>
+    <td>Split-apply-combine</td>
+    <td>Week 4</td>
+    <td></td>
+    <td><a href="https://computationaluncertaintylab.github.io/dexp_book/Homework04.html">Homework 04</a></td>
+  </tr>
 
   <tr>
     <th colspan="5" style="text-align: center;"><strong>Probability and Simulation</strong></th>
@@ -73,70 +87,56 @@ This course provides an introduction to the fundamentals of programming in Pytho
 
 <tr>
     <td>Set Theory and properties of probability; Conditional Probability, and Discrete Random variables</td>
-    <td>Week 1</td>
-    <td>Hogg, McKean, Craig 1-1.3.2; 1.4, 1.5, 1.6</td>
+    <td>Week 5 and 6</td>
+    <td>Hogg, McKean, Craig 1-1.3.2; 1.4, 1.5, 1.6  </td>
     <td>XX</td>
-    <td> [XX](llama) </td>
+    <td> <a href="https://computationaluncertaintylab.github.io/dexp_book/Homework05.html">Homework 05</a> </td>
   </tr>
   <tr>
-    <td>Continuous random variables (including Uniform), Expectation</td>
-    <td>Week 2</td>
+    <td>Random variables</td>
+    <td>Week 7 and 8</td>
     <td>Hogg, McKean, Craig 1.7-1.10</td>
     <td></td>
   </tr>
   <tr>
-    <td>Inequalities, Law of Large Numbers, and Bernoulli, Binomial, Poisson</td>
-    <td>Week 3</td>
-    <td>Hogg, McKean, Craig 3.1</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Exponential, Gamma, Normal Densities</td>
-    <td>Week 4</td>
-    <td>Hogg, McKean, Craig 3.3.1, 3.4</td>
+    <td>Bernoulli, Binomial, Poisson, Exponential, Gamma, Normal Densities</td>
+    <td>Week 9</td>
+    <td>Hogg, McKean, Craig 3.1-3.4 </td>
     <td></td>
   </tr>
   <tr>
     <td>Multivariate Normal Density</td>
-    <td>Week 5</td>
-    <td>Hogg, McKean, Craig 2.1-2.3</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Simulation of Statistical Processes (Inverse CDF, Monte Carlo, and Accept/Reject)</td>
-    <td>Weeks 6 and 7</td>
-    <td>Hogg, McKean, Craig 4.8</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Midterm</td>
-    <td>Week 8</td>
+    <td>Week 10</td>
     <td></td>
     <td></td>
-  </tr>
-  <tr>
-    <th colspan="4" style="text-align: center;"><strong>Data, visualizations, application building</strong></th>
   </tr>
 
   <tr>
-    <td>Indexing, selection, merging, and joining</td>
+    <td>Exam</td>
     <td>Week 11</td>
-    <td>Chapter 3 in <em>Python Data Science Handbook</em> by Jake VanderPlas</td>
+    <td></td>
     <td></td>
   </tr>
+ 
+
   <tr>
-    <td>Split-Apply-Combine</td>
+    <td>Simulation of Statistical Processes (Inverse CDF, Monte Carlo, and Accept/Reject)</td>
     <td>Week 12</td>
-    <td>Chapter 8, Groupby Operations: Split-Apply-Combine in <em>Pandas for Everyone: Python Data Analysis, 2nd Edition</em> by Daniel Y. Chen</td>
+    <td>Hogg, McKean, Craig 4.8</td>
     <td></td>
   </tr>
+
   <tr>
-    <td>The Data Science LifeCycle</td>
+    <td> The Forward problem for several processes </td>
     <td>Week 13</td>
-    <td>Chapter 1 in <em>Learning Data Science</em> by Sam Lau, Joseph Gonzalez, Deborah Nolan</td>
+    <td>Hogg, McKean, Craig 4.8</td>
     <td></td>
   </tr>
+ 
   <tr>
+    <th colspan="4" style="text-align: center;"><strong>Web application building</strong></th>
+  </tr>
+ <tr>
     <td>Web-application and data viz</td>
     <td>Week 14</td>
     <td><a href="https://gis.cdc.gov/grasp/fluview/Novel_Influenza.html">Data: FluView For Subtypes</a></td>
