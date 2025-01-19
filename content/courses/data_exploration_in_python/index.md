@@ -146,8 +146,12 @@ This course provides an introduction to the fundamentals of programming in Pytho
 
 ---
 ## Textbook  
-The course requires the textbook [Introduction to Mathematical Statistics](https://minerva.it.manchester.ac.uk/~saralees/statbook2.pdf) by Hogg, McKean, Craig, 8th Edition. 
-The course will also follow several different books that are all available to Lehigh University students *free of charge*.
+The course does not require a textbook.
+However, there are many texts that can be suggested such as
+- [Introduction to Mathematical Statistics](https://minerva.it.manchester.ac.uk/~saralees/statbook2.pdf) by Hogg, McKean, Craig, 8th Edition.
+- [Introduction to Probabiltiy Models](https://faculty.ksu.edu.sa/sites/default/files/introduction-to-probability-model-s.ross-math-cs.blog_.ir_.pdf) by Sheldon Ross 10th Edition.
+- [an-introduction-to-probability-theory-and-its-applications](https://bitcoinwords.github.io/assets/papers/an-introduction-to-probability-theory-and-its-applications.pdf) by William Feller 
+The course may use different books that are all available to Lehigh University students *free of charge*.
 The materials can be accessed for free via Lehigh Unviersity Library.
 The textbooks/materials are above in the Tentative timeline.
 
@@ -191,12 +195,12 @@ DataCamp is provided by the University free of charge.
 
 ### Grading Breakdown  
 
-| Item         | Weight  |
-|--------------|---------|
-| Quizzes      | 25%     |
-| Homework     | 50%     |
-| Midterm      | 12.5%   |
-| Final        | 12.5%   |
+| Item          | Weight  |
+|---------------|---------|
+| Quizzes       | 12.5%   |
+| Homework      | 65.0%   |
+| Exam          | 10.0%   |
+| Final Project | 12.5%   |
 
 ### Homework  
 Homework is due in person, one week after assignment. Late homework grades are reduced as follows:
@@ -206,7 +210,7 @@ f(\text{grade}, \text{days late}) = \text{grade} \times e^{-0.35 \cdot \text{day
 Late assignments beyond three days receive zero.  
 
 ### Exams
-The Midterm is a take home project that blends: mathematical statistics, statistical programming, and simulaiton.
+The Exam is an in-class exam on content up until that time.
 The Final is a take home project that asks students to build a fully functional web-application in python that will draw on all aspects of the course.
 Quizzes are due by midnight on class days. Quizes are quick and meant to test class engagement.  
 
