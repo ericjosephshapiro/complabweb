@@ -220,7 +220,8 @@ The Final is a take home project that asks students to build a fully functional 
 Quizzes are due by midnight on class days. Quizes are quick and meant to test class engagement.  
 
 ### Datacamp  
-Datacamp assignments may accompany homeworks.  
+Datacamp assignments may accompany homeworks.
+For now, Datacamp is free for Lehigh students.
 
 ### Extra Credit
 Extra credit involves attending seminars and writing reflections, contributing as an additional quiz score.
