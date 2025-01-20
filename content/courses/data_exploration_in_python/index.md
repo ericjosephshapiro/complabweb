@@ -34,7 +34,7 @@ This course provides an introduction to the fundamentals of programming in Pytho
 ## Class Logistics and Resources
 
 ### Class Time and Location  
-- Tuesdays, Thursdays 3:00 PM - 4:15 PM in STEPS Room 121  
+- Tuesdays, Thursdays 1:35pm - 2:50pm in Maginnes 103
 
 ### Tentative Timeline  
 
