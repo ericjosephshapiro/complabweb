@@ -38,7 +38,7 @@ This course provides an introduction to the fundamentals of programming in Pytho
 
 ### Tentative Timeline  
 
-<table border="1" cellspacing="0" cellpadding="5">
+<table border="1" cellspacing="0" cellpadding="4">
   <tr>
     <th>Topic</th>
     <th>Timeline</th>
@@ -54,32 +54,32 @@ This course provides an introduction to the fundamentals of programming in Pytho
   <tr>
     <td>Exploratory data Analysis Part I</td>
     <td>Week 1</td>
-    <td>Refer to Notes</td>
-    <td></td>
+    <td> <a href="https://computationaluncertaintylab.github.io/dexp_book/EDA_01.html"> Ch1 notes</a> </td>
+    <td> None (Coding in class) </td>
     <td> <a href="https://computationaluncertaintylab.github.io/dexp_book/Homework01.html"> Homework 01</a>  </td>
   </tr>
 
   <tr>
     <td>Data, Data Frames, and Pandas</td>
     <td>Week 2</td>
-    <td>Refer to Notes</td>
-    <td></td>
+    <td> <a href="https://computationaluncertaintylab.github.io/dexp_book/C2%20data_pandas.html"> Ch2 notes</a></td>
+    <td> None (Coding in class) </td>
     <td><a href="https://computationaluncertaintylab.github.io/dexp_book/Homework02.html">Homework 02</a></td>
   </tr>
 
   <tr>
     <td>Data visualization</td>
     <td>Week 3</td>
-    <td>Refer to Notes</td>
-    <td></td>
+    <td> <a href="https://computationaluncertaintylab.github.io/dexp_book/Chap3_Dataviz.html"> Ch3 notes</a>  </td>
+    <td> None (Coding in class) </td>
     <td><a href="https://computationaluncertaintylab.github.io/dexp_book/Homework03.html">Homework 03</a></td>
   </tr>
 
   <tr>
-    <td>Split-apply-combine</td>
+    <td>Split-apply-combine and merging</td>
     <td>Week 4</td>
-    <td>Refer to Notes</td>
-    <td></td>
+    <td> <a href="https://computationaluncertaintylab.github.io/dexp_book/chapter4__split_apply_combine_and_merging.html"> Ch4 notes </a> </td>
+    <td> None (Coding in class) </td>
     <td><a href="https://computationaluncertaintylab.github.io/dexp_book/Homework04.html">Homework 04</a></td>
   </tr>
 
@@ -87,19 +87,28 @@ This course provides an introduction to the fundamentals of programming in Pytho
     <th colspan="5" style="text-align: center;"><strong>Probability and Simulation</strong></th>
   </tr>
 
+<tr>
+    <td>Set Theory and Probabilities assigned to sets</td>
+    <td>Week 5</td>
+    <td> <a href="https://computationaluncertaintylab.github.io/dexp_book/Ch5_sets_samplespace.html"> Ch5 Sets, sample space, and probability </a> </td>
+    <td> <a href="https://app.datacamp.com/learn/courses/data-manipulation-with-pandas">  Data Manipulation with Pandas </a> </td>
+    <td> <a href="https://computationaluncertaintylab.github.io/dexp_book/Homework05.html">Homework 05</a> </td>
+ </tr>
 
 <tr>
-    <td>Set Theory and properties of probability; Conditional Probability, and Discrete Random variables</td>
-    <td>Week 5 and 6</td>
-    <td>Refer to Notes</td>
-    <td>XX</td>
-    <td> <a href="https://computationaluncertaintylab.github.io/dexp_book/Homework05.html">Homework 05</a> </td>
-  </tr>
+    <td> Conditional probability, Total probability, and Bayes Thm </td>
+    <td>Week 5</td>
+    <td> <a href="https://computationaluncertaintylab.github.io/dexp_book/Ch5_sets_samplespace.html"> Ch5 Sets, sample space, and probability </a> </td>
+    <td> <a href="https://app.datacamp.com/learn/courses/introduction-to-git">  Introduction to Git </a> </td>
+    <td> <a href="https://computationaluncertaintylab.github.io/dexp_book/Homework06.html">Homework 06</a> </td>
+ </tr>
+
+
   <tr>
     <td>Random variables</td>
-    <td>Week 7 and 8</td>
-    <td>Refer to Notes</td>
-    <td>Hogg, McKean, Craig 1.7-1.10</td>
+    <td>Weeks 7 and 8</td>
+    <td> <a href="https://computationaluncertaintylab.github.io/dexp_book/ch6_randomvars.html"> Ch6 Random variables </a> </td>
+    <td> TBA </td>
     <td></td>
   </tr>
   <tr>
