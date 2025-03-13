@@ -3,8 +3,8 @@ title: "When Data Disappear:  Public Health Pays As Policy Strays"
 date: 2025-02-04
 tags: ["policy", "influenza"]
 author: [Thomas McAndrew,Andrew A. Lover, Garrik Hoyt,  Maimuna S. Majumder]
-description: "Illustrating the importamce of public health data"
-summary: "Illustrating the importamce of public health data"
+description: "Illustrating the importance of public health data"
+summary: "Illustrating the importance of public health data"
 cover:
     image: "featured.jpg"
     relative: false
