@@ -82,6 +82,10 @@ params:
               url: members/
             - name: Lab Docs
               url: lab_docs/
+            - name: Apps
+              url: apps/
+
+
 
 
 
