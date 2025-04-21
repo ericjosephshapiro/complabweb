@@ -28,6 +28,11 @@ menu:
         - name: Lab Docs
           url: lab_docs/
           weight: 6
+        - name: Apps
+          url: apps/
+          weight: 7
+
+
 
 params:
     description: "Computational scientist,infectious diseases,forecasting"
