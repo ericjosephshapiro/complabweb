@@ -1,10 +1,10 @@
 ---
-title: "Hongfei Liu"
+title: "Hongfei Luo"
 date: 2003-03-10
 lastmod: 2024-09-08
 tags: ["math","stats","infectious diseases"]
-author: "Hongfei Liu"
-description: "Background on Hongfei Liu" 
+author: "Hongfei Luo"
+description: "Background on Hongfei Luo" 
 summary: "XXXX"
 cover:
     image: "XX"
