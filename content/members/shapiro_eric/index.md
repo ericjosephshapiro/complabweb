@@ -5,7 +5,7 @@ lastmod: 2024-09-08
 tags: ["math","stats","infectious diseases"]
 author: "Eric Shapiro"
 description: "Background on Eric Shapiro" 
-summary: "XXXX"
+summary: "I'm interested in how environmental factors affect health and enjoy using data science to find patterns that can help improve public health"
 cover:
     image: "XX"
     alt: ""
@@ -18,7 +18,7 @@ disableAnchoredHeadings: false
 
 ---
 
-Eric is a <majors and minors> in the Department of XXX at the YYY at ZZZ University.
+Eric is a Population Health, Epidemiology, and Biostatistics student in the Department of XXX at the YYY at ZZZ University.
 Eric's research focuses on XXX.
 Eric's long-term goal is to XXXX.
 
