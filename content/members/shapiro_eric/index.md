@@ -18,7 +18,7 @@ disableAnchoredHeadings: false
 
 ---
 
-Eric is a Population Health, Epidemiology, and Biostatistics student in the Department of XXX at the YYY at ZZZ University.
+Eric is a Population Health, Epidemiology, and Biostatistics student in the Department of Community and Population Health at the College of Health at Lehigh University.
 Eric's research focuses on XXX.
 Eric's long-term goal is to XXXX.
 
