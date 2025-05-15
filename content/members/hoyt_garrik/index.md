@@ -5,7 +5,7 @@ lastmod: 2024-09-08
 tags: ["math","stats","infectious diseases"]
 author: "Garrik Hoyt"
 description: "Background on Garrik Hoyt" 
-summary: "XXXX"
+summary: "Computer Science PhD student; Data science, Catastrophe Modeling, Machine Learning, Uncertainty Quantification, Infectious Disease Modeling"
 cover:
     image: "XX"
     alt: ""
@@ -18,6 +18,6 @@ disableAnchoredHeadings: false
 
 ---
 
-Garrik is a <majors and minors> in the Department of XXX at the YYY at ZZZ University.
-Garrik's research focuses on XXX.
-Garrik's long-term goal is to XXXX.
+Garrik is a PhD student in the Department of Computer Science & Engineering at the P.C. Rossin College of Engineering & Applied Science at Lehigh University.
+Garrik's research focuses on Uncertainty Quantification, Catastrophe Modeling, Data Science & Machine Learning, and Infectious Disease Modeling.
+Garrik's long-term goal is to establish a career in academia.
