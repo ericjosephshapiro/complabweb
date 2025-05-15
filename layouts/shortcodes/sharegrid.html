@@ -1,0 +1,74 @@
+<div class="share-grid">
+  {{ with .Page.Params.linkedin_url }}
+  <a href="{{ . }}" target="_blank" aria-label="Share on LinkedIn">
+    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="#fff" viewBox="0 0 24 24"><path d="M4.98 3.5C3.32 3.5 2 4.82 2 6.48c0 1.66 1.32 2.98 2.98 2.98 1.66 0 2.98-1.32 2.98-2.98C7.96 4.82 6.64 3.5 4.98 3.5zM2.4 8.77H7.56V21H2.4V8.77zM9.84 8.77h4.92v1.67h.07c.69-1.31 2.37-2.69 4.88-2.69 5.22 0 6.18 3.43 6.18 7.88V21h-5.16v-6.28c0-1.5-.03-3.44-2.1-3.44-2.1 0-2.42 1.64-2.42 3.33V21h-5.16V8.77z"/></svg>
+    <span>LinkedIn</span>
+  </a>
+  {{ end }}
+
+  {{ with .Page.Params.github_url }}
+  <a href="{{ . }}" target="_blank" aria-label="GitHub Repo">
+    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="#fff" viewBox="0 0 24 24"><path d="M12 0C5.37 0 0 5.373 0 12c0 5.302 3.438 9.8 8.205 11.387.6.113.82-.258.82-.577v-2.256c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.757-1.333-1.757-1.089-.745.083-.729.083-.729 1.205.084 1.84 1.238 1.84 1.238 1.07 1.834 2.807 1.304 3.492.997.107-.776.418-1.305.762-1.605-2.665-.303-5.467-1.332-5.467-5.932 0-1.31.468-2.381 1.235-3.221-.123-.303-.535-1.523.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.984-.399 3.003-.404 1.019.005 2.046.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.241 2.873.118 3.176.77.84 1.232 1.911 1.232 3.221 0 4.61-2.807 5.625-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.218.694.825.576C20.565 21.796 24 17.298 24 12c0-6.627-5.373-12-12-12z"/></svg>
+    <span>GitHub</span>
+  </a>
+  {{ end }}
+
+  <a href="javascript:void(0);" onclick="copyEmail('{{ .Page.Params.email_address | default "example@example.com" }}')" aria-label="Copy Email Address">
+  <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="#fff" viewBox="0 0 24 24"><path d="M20 4H4C2.9 4 2 4.9 2 6v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zM4 8.99l8 4.99 8-4.99V6l-8 5-8-5v2.99z"/></svg>
+  <span>Copy Email Address</span>
+</a>
+
+
+  {{ with .Page.Params.cv_url }}
+  <a href="{{ . }}" target="_blank" aria-label="Download CV">
+    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="#fff" viewBox="0 0 24 24"><path d="M5 20h14v-2H5v2zm7-18L5.33 9h4.17v4h5V9h4.17L12 2z"/></svg>
+    <span>CV</span>
+  </a>
+  {{ end }}
+</div>
+
+<style>
+.share-grid {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  padding: 40px 0;
+  flex-wrap: wrap;
+}
+.share-grid a {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 10px 16px;
+  background: #0A66C2;
+  border-radius: 9999px;
+  color: white;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 16px;
+  transition: background 0.2s, transform 0.2s;
+}
+.share-grid a:nth-child(2) {
+  background: #24292e;
+}
+.share-grid a:nth-child(3) {
+  background: #EA4335;
+}
+.share-grid a:nth-child(4) {
+  background: #4CAF50;
+}
+.share-grid a:hover {
+  transform: scale(1.05);
+  background: #000;
+}
+</style>
+
+<script>
+function copyEmail(email) {
+    navigator.clipboard.writeText(email).then(function() {
+        alert("Email address copied: " + email);
+    }, function(err) {
+        alert("Failed to copy email address");
+    });
+}
+</script>
