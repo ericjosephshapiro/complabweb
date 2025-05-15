@@ -2,22 +2,27 @@
 title: "Garrik Hoyt"
 date: 2003-03-10
 lastmod: 2024-09-08
-tags: ["math","stats","infectious diseases"]
+tags: ["data science","catastrophe modeling", "uncertainty quantification", "machine learning", "infectious diseases"]
 author: "Garrik Hoyt"
 description: "Background on Garrik Hoyt" 
-summary: "XXXX"
+summary: "Computer Science PhD student; Data science, Catastrophe Modeling, Machine Learning, Uncertainty Quantification, Infectious Disease Modeling"
 cover:
     image: "XX"
     alt: ""
     relative: false
 editPost:
-    URL: ../../XXXX
+    URL: "https://github.com/GarrikHoyt/cv/blob/main/Hoyt_CV.pdf"
     Text: "CV"
 showToc: true
 disableAnchoredHeadings: false
 
 ---
 
-Garrik is a <majors and minors> in the Department of XXX at the YYY at ZZZ University.
-Garrik's research focuses on XXX.
-Garrik's long-term goal is to XXXX.
+Garrik is a PhD student in the Department of Computer Science & Engineering at the P.C. Rossin College of Engineering & Applied Science at Lehigh University.
+Garrik's research focuses on Uncertainty Quantification, Catastrophe Modeling, Data Science & Machine Learning, and Infectious Disease Modeling.
+Garrik's long-term goal is to establish a career in academia.
+
+[LinkedIn](https://www.linkedin.com/in/garrikh/)
+
+[GitHub](https://github.com/GarrikHoyt)
+
