@@ -7,7 +7,7 @@ author: "Garrik Hoyt"
 description: "Background on Garrik Hoyt" 
 summary: "Computer Science PhD student; Data science, Catastrophe Modeling, Machine Learning, Uncertainty Quantification, Infectious Disease Modeling"
 cover:
-    image: "XX"
+    image: "hoyt.jpeg"
     alt: ""
     relative: false
 editPost:
