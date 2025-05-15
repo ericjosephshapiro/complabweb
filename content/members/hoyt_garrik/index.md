@@ -11,7 +11,7 @@ cover:
     alt: ""
     relative: false
 editPost:
-    URL: ../../XXXX
+    URL: "https://github.com/GarrikHoyt/cv/blob/main/Hoyt_CV.pdf"
     Text: "CV"
 showToc: true
 disableAnchoredHeadings: false
