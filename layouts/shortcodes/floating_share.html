@@ -39,8 +39,6 @@
   </button>
 </div>
 
-
-
 <script>
 function copyEmail(email) {
     navigator.clipboard.writeText(email).then(function() {
@@ -55,14 +53,18 @@ document.addEventListener("DOMContentLoaded", function() {
     const buttons = document.getElementById("share-buttons");
     fab.addEventListener("click", function() {
         buttons.classList.toggle("show");
+        fab.classList.toggle("open"); // Optional for FAB rotation
     });
 });
 </script>
 
 <style>
-
+/* --- Desktop floating share buttons --- */
 .floating-share {
   position: fixed;
+  top: 50%;
+  left: 20px;
+  transform: translateY(-50%);
   z-index: 1000;
 }
 
@@ -91,12 +93,12 @@ document.addEventListener("DOMContentLoaded", function() {
   background: #000;
 }
 
-/* FAB styles */
+/* --- FAB default (hidden on desktop) --- */
 .fab {
   display: none;
   position: fixed;
   bottom: 20px;
-  right: 20px;
+  left: 20px;
   width: 56px;
   height: 56px;
   border-radius: 50%;
@@ -106,32 +108,45 @@ document.addEventListener("DOMContentLoaded", function() {
   font-size: 32px;
   cursor: pointer;
   box-shadow: 0 2px 10px rgba(0,0,0,0.3);
+  transition: transform 0.3s ease;
 }
 
+/* --- Small screens (mobile/tablet) --- */
 @media (max-width: 768px) {
+  .floating-share {
+    top: auto;
+    bottom: 20px;
+    left: 20px;
+    transform: none;
+  }
+
   .share-buttons {
     position: fixed;
     bottom: 80px;
-    right: 20px;
+    left: 20px;
     flex-direction: column;
     gap: 10px;
-    display: none;
+
+    /* Hidden state with animation */
+    opacity: 0;
+    transform: translateY(20px);
+    pointer-events: none;
+    transition: opacity 0.3s ease, transform 0.3s ease;
   }
 
-  .floating-share a {
-    padding: 10px 14px;
-    font-size: 14px;
+  .share-buttons.show {
+    opacity: 1;
+    transform: translateY(0);
+    pointer-events: auto;
   }
 
   .fab {
     display: block;
   }
 
-  .share-buttons.show {
-    display: flex;
+  /* Optional: FAB rotates when open */
+  .fab.open {
+    transform: rotate(45deg);
   }
 }
-
-  
 </style>
-
