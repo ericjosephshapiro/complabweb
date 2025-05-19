@@ -1,7 +1,7 @@
 ---
 title: "Garrik Hoyt"
-date: 2003-03-10
-lastmod: 2024-09-08
+date: 2025-05-15
+lastmod: 2025-05-15
 tags: ["data science","catastrophe modeling", "uncertainty quantification", "machine learning", "infectious diseases"]
 author: "Garrik Hoyt"
 description: "Background on Garrik Hoyt" 
