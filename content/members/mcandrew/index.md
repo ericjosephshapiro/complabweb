@@ -1,7 +1,7 @@
 ---
 title: "tom mcandrew (pi)"
-date: 2024-09-10
-lastmod: 2024-09-08
+date: 2025-05-19
+lastmod: 2025-05-19
 socialIcons: true
 ShowShareButtons: true
 tags: ["math","stats","human judgment","forecasting"]
