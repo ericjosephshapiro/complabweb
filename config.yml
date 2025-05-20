@@ -32,8 +32,6 @@ menu:
           url: apps/
           weight: 7
 
-
-
 params:
     description: "Computational scientist,infectious diseases,forecasting"
     author: tom mcandrew
@@ -61,7 +59,9 @@ params:
     profileMode:
           enabled: true
           title: ""
-          subtitle: "The computational uncertainty lab led by Prof. Thomas McAndrew aims to forecast the trajectory of infectious diseases by combining forecasts from computational models and human judgement. The lab is funded by the NIH, the Centers for Disease Control and Prevention, and the Council for State and Territorial Epidemiologists. The lab includes postdoctoral fellows, PhD candidates, Masters students, and undergraduates who study the intersection of human judgement, statistical forecasting and time series, and outbreak science."
+          subtitle: "The computational uncertainty lab aims to improve the health and well being of others through the study and application of computational models.
+	  Though we are experts in **infectious disease modeling**, the lab hosts a broad range of projects related to computational modeling and health sciences.
+	  **Lab PI**: prof mcandrew: mcandrew@lehigh.edu"
           imageUrl: "compuncertlab.jpg"
           imageWidth: 200
           imageHeight: 200
@@ -84,10 +84,6 @@ params:
               url: lab_docs/
             - name: Apps
               url: apps/
-
-
-
-
 
     socialIcons:
         - name: CV
