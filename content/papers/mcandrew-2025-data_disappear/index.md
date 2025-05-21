@@ -1,6 +1,6 @@
 ---
 title: "When Data Disappear:  Public Health Pays As Policy Strays"
-date: 2025-02-04
+date: 2025-05-21
 tags: ["policy", "influenza"]
 author: [Thomas McAndrew,Andrew A. Lover, Garrik Hoyt,  Maimuna S. Majumder]
 description: "Illustrating the importance of public health data"
@@ -17,7 +17,7 @@ editPost:
 
 ##### Download
 
-+ [Paper](https://osf.io/baw64)
++ [Paper](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(25)00056-1/fulltext?rss=yes)
 + [Presentation with CMU-Delphi Group](cmu_delphi_presentation.pdf)
 
 ---
@@ -31,9 +31,10 @@ On January 20th, 2025, President Trump signed executive orders that limit the ab
 
 ##### Citation
 
-McAndrew, Thomas, Lover, Andrew; Hoyt, Garik; Majumder, Maimuna  "When Data Disappear: Public Health Pays As Policy Strays" OSF preprint 10.17605/OSF.IO/MP84K (2025).
-
 ```
+When data disappear: public health pays as US policy strays
+McAndrew, Thomas, Lover, Andrew; Hoyt, Garik; Majumder, Maimuna
+The Lancet Digital Health, Volume 0, Issue 0, 100874
 
 ```
 ---
