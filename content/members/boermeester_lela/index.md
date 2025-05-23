@@ -18,7 +18,7 @@ disableAnchoredHeadings: false
 
 ---
 
-Lela is a <majors and minors> in the Department of XXX at the YYY at ZZZ University.
+Lela is a Population Health major in the College of Health with minors in Biostatisitcs and Business at Lehigh University.
 Lela's research focuses on XXX.
 Lela's long-term goal is to XXXX.
 
