@@ -1,6 +1,6 @@
 ---
 title: "Aaron Colon"
-date: 2003-03-10
+date: 2024-05-30
 lastmod: 2024-09-08
 tags: ["math","stats","infectious diseases"]
 author: "Aaron Colon"
