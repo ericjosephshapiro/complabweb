@@ -20,7 +20,6 @@ linkedin_url: "https://www.linkedin.com/in/aaron--colon"
 github_url: "https://github.com/Aaron-Colon"
 email_address: "mcandrew@lehigh.edu"
 cv_url: "https://github.com/Aaron-Colon/CV/blob/main/CV.pdf"
--
 
 ---
 
