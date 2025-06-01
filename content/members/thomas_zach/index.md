@@ -20,7 +20,6 @@ linkedin_url: "XX"
 github_url: "XX"
 email_address: "XX"
 cv_url: "XX"
--
 
 ---
 
