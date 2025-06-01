@@ -16,10 +16,10 @@ editPost:
 showToc: true
 disableAnchoredHeadings: false
 
-linkedin_url: ""
-github_url: ""
-email_address: ""
-cv_url: ""
+linkedin_url: "XX"
+github_url: "XX"
+email_address: "XX"
+cv_url: "XX"
 -
 
 ---
