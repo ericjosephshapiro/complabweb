@@ -5,25 +5,25 @@ lastmod: 2025-03-25
 tags: ["math","stats"]
 author: "Zach Thomas"
 description: "Background on Zach Thomas" 
-summary: "XXXX"
+summary: "Machine Learning and Diesease Risk Research"
 cover:
     image: "XX"
     alt: ""
     relative: false
 editPost:
-    URL: ../../XXXX
-    Text: "CV"
+    URL: ../../https://github.com/thomasz751/resume/blob/main/ResumeText.docx
+    Text: "Resume"
 showToc: true
 disableAnchoredHeadings: false
 
-linkedin_url: "XX"
-github_url: "XX"
-email_address: "XX"
+linkedin_url: "www.linkedin.com/in/zachariah-thomas-b1677023a"
+github_url: "https://github.com/thomasz751"
+email_address: "thomaszach397@gmail.com"
 cv_url: "XX"
 
 ---
 
-Zach is a <majors and minors> in the Department of XXX at <School>
-Zach's research focuses on XXX, and there long-term goal is to XXXX.
+Zach is a statistics major with an actuarial concentration in the Department of Statistics at Penn State
+Zach's research focuses on XXX, and there long-term goal is to make machine learning models to accurately asses risk.
 
 {{< floating_share >}} 
