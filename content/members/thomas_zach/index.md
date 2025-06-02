@@ -11,7 +11,7 @@ cover:
     alt: ""
     relative: false
 editPost:
-    URL: ../../https://github.com/thomasz751/resume/blob/main/ResumeText.docx
+    URL: https://github.com/thomasz751/resume/blob/main/ResumeText.docx
     Text: "Resume"
 showToc: true
 disableAnchoredHeadings: false
@@ -19,11 +19,11 @@ disableAnchoredHeadings: false
 linkedin_url: "www.linkedin.com/in/zachariah-thomas-b1677023a"
 github_url: "https://github.com/thomasz751"
 email_address: "thomaszach397@gmail.com"
-cv_url: "XX"
+cv_url: "https://github.com/thomasz751/resume/blob/main/ResumeText.docx"
 
 ---
 
-Zach is a statistics major with an actuarial concentration in the Department of Statistics at Penn State
-Zach's research focuses on XXX, and there long-term goal is to make machine learning models to accurately asses risk.
+Zach is a statistics major with an actuarial concentration in the Department of Statistics at Penn State University
+Zach's long-term goal is to make machine learning models to accurately asses risk.
 
 {{< floating_share >}} 
