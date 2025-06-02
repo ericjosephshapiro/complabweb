@@ -18,9 +18,7 @@ disableAnchoredHeadings: false
 
 ---
 
-Cheyenne is a biostatistics major additionally pursuing minors in data science as well as probablity and statistics in the Department of Biostatistics and Health Data Science at the College of Health at Lehigh University.
-Cheyenne's research focuses on XXX.
-Cheyenne's long-term goal is to eventually pursue a MS and/or PhD in biostatistics,
+Cheyenne is a biostatistics major additionally pursuing minors in data science as well as probablity and statistics in the Department of Biostatistics and Health Data Science at the College of Health at Lehigh University. Cheyenne's research focuses on modeling influenza and analyzing it within congregate settings. Cheyenne's long-term goal is to eventually pursue a MS and/or PhD in biostatistics and work in-field.
 
 [LinkedIn] "https://www.linkedin.com/in/cheyennebdesmond"
 
