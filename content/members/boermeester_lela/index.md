@@ -11,7 +11,7 @@ cover:
     alt: ""
     relative: false
 editPost:
-    URL: [Resume](https://github.com/lrb226/lrb226/blob/485bee6b28071818c60f98dfdef2424a62b12727/Lela%20Boermeester-Resume%20-%20Google%20Docs.pdf)
+    URL: [Resume](https://github.com/lrb226/resume)
     Text: "CV"
 showToc: true
 disableAnchoredHeadings: false
