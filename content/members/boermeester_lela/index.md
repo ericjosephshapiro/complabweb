@@ -11,7 +11,7 @@ cover:
     alt: ""
     relative: false
 editPost:
-    URL: [Resume](https://github.com/lrb226/resume)
+    URL: github.com/lrb226/resume
     Text: "CV"
 showToc: true
 disableAnchoredHeadings: false
