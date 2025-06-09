@@ -1,25 +1,31 @@
 ---
 title: "Lela Boermeester"
-date: 2003-03-10
+date: 2024-03-20
 lastmod: 2024-09-08
 tags: ["math","stats","infectious diseases"]
 author: "Lela Boermeester"
 description: "Background on Lela Boermeester" 
-summary: "Population Health najor with intrests in data science, infectious diseases modeling, and health equity"
+summary: "Population Health major with interests in data science, infectious diseases modeling, and health equity"
 cover:
     image: "XX"
     alt: ""
     relative: false
 editPost:
-    URL: github.com/lrb226/resume
+    URL: https://github.com/lrb226/resume/blob/main/Lela_Boermeester_Resume.pdf
     Text: "CV"
 showToc: true
 disableAnchoredHeadings: false
 
+linkedin_url: www.linkedin.com/in/lela-boermeester
+github_url: https://github.com/lrb226
+email_address: lrb226@lehigh.edu
+cv_url: https://github.com/lrb226/resume/blob/main/Lela_Boermeester_Resume.pdf
+
 ---
 
-Lela is a student athlete at Lehigh University pursuing a population health major and biostatistics minor in the College of Health. As well as a minor in Business through Lehigh's College of Business.
+Lela is a student athlete pursuing a population health major in the College of Health at Lehigh University.
+In addition, she is pursuing minors in Business (in the College of Business) and biostatistics. 
 Lela's current research focus is on modeling and analyzing influenza data.
 Lela's long-term goal is to pursue a master's degree in biostatistics, with a focus on infectious disease and or population health.
-[Linked in](www.linkedin.com/in/lela-boermeester)
-[GritHub](https://github.com/lrb226)
+
+{{< floating_share >}} 
