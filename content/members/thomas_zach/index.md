@@ -16,7 +16,7 @@ editPost:
 showToc: true
 disableAnchoredHeadings: false
 
-linkedin_url: "https://www.linkedin.com/in/zachariah-thomas-b1677023a/"
+linkedin_url: "https://www.linkedin.com/in/zachariah-thomas-b1677023a"
 github_url: "https://github.com/thomasz751"
 email_address: "thomaszach397@gmail.com"
 cv_url: "https://github.com/thomasz751/resume/blob/main/ResumeText.docx"
