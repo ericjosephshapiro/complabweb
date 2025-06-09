@@ -16,10 +16,10 @@ editPost:
 showToc: true
 disableAnchoredHeadings: false
 
-linkedin_url: www.linkedin.com/in/lela-boermeester
-github_url: https://github.com/lrb226
-email_address: lrb226@lehigh.edu
-cv_url: https://github.com/lrb226/resume/blob/main/Lela_Boermeester_Resume.pdf
+linkedin_url: "www.linkedin.com/in/lela-boermeester"
+github_url: "https://github.com/lrb226"
+email_address: "lrb226@lehigh.edu"
+cv_url: "https://github.com/lrb226/resume/blob/main/Lela_Boermeester_Resume.pdf"
 
 ---
 
