@@ -19,7 +19,7 @@ disableAnchoredHeadings: false
 linkedin_url: "https://www.linkedin.com/in/natalie-kam/"
 github_url: "https://github.com/nak327"
 email_address: "nak327@lehigh.edu"
-cv_url: "../../mcandrew_cv.pdf"
+cv_url: "https://github.com/nak327/Resume/blob/main/Kam%20Natalie%20Resume.pdf"
 
 ---
 
