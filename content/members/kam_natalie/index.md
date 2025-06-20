@@ -11,7 +11,7 @@ cover:
     alt: ""
     relative: false
 editPost:
-    URL: ../../XXXX
+    URL: https://github.com/nak327/Resume/blob/main/Kam%20Natalie%20Resume.pdf
     Text: "CV"
 showToc: true
 disableAnchoredHeadings: false
