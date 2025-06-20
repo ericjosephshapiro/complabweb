@@ -1,6 +1,6 @@
 ---
 title: "Natalie Kam"
-date: 2003-03-10
+date: 2025-05-10
 lastmod: 2024-09-08
 tags: ["math","stats","infectious diseases"]
 author: "Natalie Kam"
