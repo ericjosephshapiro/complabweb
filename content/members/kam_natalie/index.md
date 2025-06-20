@@ -27,3 +27,4 @@ Natalie is a Biostatistics and Health Data Science Major and Biology minor in th
 Natalie's research focuses on integrating technological solutions into the public health space.
 Natalie's long-term goal is to pursue an MD and  MS (or MPH) in Biostatistics.
 
+{{< floating_share >}} 
