@@ -16,9 +16,14 @@ editPost:
 showToc: true
 disableAnchoredHeadings: false
 
+linkedin_url: "https://www.linkedin.com/in/natalie-kam/"
+github_url: "https://github.com/nak327"
+email_address: "nak327@lehigh.edu"
+cv_url: "../../mcandrew_cv.pdf"
+
 ---
 
-Natalie is a <majors and minors> in the Department of XXX at the College of Health at Lehigh University.
-Natalie's research focuses on XXX.
-Natalie's long-term goal is to XXXX.
+Natalie is a Biostatistics and Health Data Science Major and Biology minor in the Department of Biostatistics and Health Data Science at the College of Health at Lehigh University.
+Natalie's research focuses on integrating technological solutions into the public health space.
+Natalie's long-term goal is to pursue an MD and possibly a MS in Biostatistics or an MPH.
 
