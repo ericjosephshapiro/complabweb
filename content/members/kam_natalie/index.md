@@ -5,9 +5,9 @@ lastmod: 2024-09-08
 tags: ["math","stats","infectious diseases"]
 author: "Natalie Kam"
 description: "Background on Natalie Kam" 
-summary: "XXXX"
+summary: ""
 cover:
-    image: "XX"
+    image: "Kam_Natalie_Headshot"
     alt: ""
     relative: false
 editPost:
@@ -25,5 +25,5 @@ cv_url: "https://github.com/nak327/Resume/blob/main/Kam%20Natalie%20Resume.pdf"
 
 Natalie is a Biostatistics and Health Data Science Major and Biology minor in the Department of Biostatistics and Health Data Science at the College of Health at Lehigh University.
 Natalie's research focuses on integrating technological solutions into the public health space.
-Natalie's long-term goal is to pursue an MD and possibly a MS in Biostatistics or an MPH.
+Natalie's long-term goal is to pursue an MD and  MS (or MPH) in Biostatistics.
 
