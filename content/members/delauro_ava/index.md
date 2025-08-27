@@ -22,3 +22,5 @@ Ava is a Population Health major in the Department of Population Health at the C
 Ava's previous research focused on reducing stigma that nurses have against their patients who use drugs. She started scoping reviews and a storytelling narrative intervention. Ava's current research focuses on modeling flu on Lehigh University's campus and developing a forecasting database for students/staff to use for prevention.
 Ava's long-term goal is to learn more about disease epidemiology and improving access to healthcare. After graduation she plans on getting a Masters degree in Health Administration to improve health equity and outcomes in her community.
 
+[Linked in](https://www.linkedin.com/in/ava-delauro-924046269/)
+[Github Profile]([URL FOR YOUR GitHub](https://github.com/ahd326/complabweb))
