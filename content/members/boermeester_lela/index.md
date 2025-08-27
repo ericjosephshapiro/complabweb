@@ -7,7 +7,7 @@ author: "Lela Boermeester"
 description: "Background on Lela Boermeester" 
 summary: "Population Health major with interests in data science, infectious diseases modeling, and health equity"
 cover:
-    image: "XX"
+    image: "boermeester.jpg"
     alt: ""
     relative: false
 editPost:
