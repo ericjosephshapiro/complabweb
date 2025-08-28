@@ -1,6 +1,6 @@
 ---
 title: "Lela Boermeester"
-date: 2024-03-20
+date: 2024-09-08
 lastmod: 2024-09-08
 tags: ["math","stats","infectious diseases"]
 author: "Lela Boermeester"
