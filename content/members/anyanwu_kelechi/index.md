@@ -18,7 +18,6 @@ disableAnchoredHeadings: false
 
 ---
 
-Kelechi is a <majors and minors> in the Department of XXX at the YYY at ZZZ University.
-Kelechi's research focuses on XXX.
-Kelechi's long-term goal is to XXXX.
+I am a Population Health major, minoring in Business in the College of Health at Lehigh University. My research focus is to analyze real-life data and present the data to audiences in a simple but effective way for people to understand.
+My long-term goal is to get a masters in Public Health and gain experience in the field of healthcare administration and management. I also hope to pursue an MBA program and start my own health clinic to bridge the gaps of healthcare inequity.  
 
