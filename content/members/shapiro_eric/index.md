@@ -7,9 +7,9 @@ author: "Eric Shapiro"
 description: "Background on Eric Shapiro" 
 summary: "I'm interested in how environmental factors affect health and enjoy using data science to find patterns that can help improve public health"
 cover:
-    image: "XX"
-    alt: ""
-    relative: false
+    image: "EricHeadshot.jpg"
+    alt: "Photo of Eric Shapiro"
+    relative: true
 editPost:
     URL: ../../XXXX
     Text: "CV"
