@@ -23,3 +23,4 @@ Eric’s research focuses on modeling influenza outbreaks at Lehigh University t
 Eric’s long-term goal is to develop computational approaches that link environmental exposures with patterns of disease.
 
 [LinkedIn](https://www.linkedin.com/in/ericjshapiro/)
+[GitHub](https://github.com/ericjosephshapiro)
