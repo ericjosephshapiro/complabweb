@@ -19,6 +19,5 @@ disableAnchoredHeadings: false
 ---
 
 Eric is a Population Health, Epidemiology, and Biostatistics student in the Department of Community and Population Health at the College of Health at Lehigh University.
-Eric's research focuses on XXX.
-Eric's long-term goal is to XXXX.
-
+Eric’s research focuses on modeling influenza outbreaks at Lehigh University to explore the dynamics of disease transmission and control.
+Eric’s long-term goal is to develop computational approaches that link environmental exposures with patterns of disease.
