@@ -9,7 +9,7 @@ summary: "I'm interested in how environmental factors affect health and enjoy us
 cover:
     image: "EricHeadshot.jpg"
     alt: "Photo of Eric Shapiro"
-    relative: false
+    relative: true
 editPost:
     URL: ../../XXXX
     Text: "CV"
