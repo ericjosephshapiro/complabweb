@@ -24,3 +24,4 @@ Eric’s long-term goal is to develop computational approaches that link environ
 
 [LinkedIn](https://www.linkedin.com/in/ericjshapiro/)
 [GitHub](https://github.com/ericjosephshapiro)
+[CV/Resume](https://github.com/ericjosephshapiro/resume-ericshapiro/blob/main/ResumeGitHub.pdf)
